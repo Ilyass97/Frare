@@ -1,0 +1,19 @@
+{
+  "name": "frare",
+  "version": "1.0.0",
+  "description": "programmazioneDiMerda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilyass97/Frare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilyass97/Frare/issues"
+  },
+  "homepage": "https://github.com/Ilyass97/Frare#readme"
+}
